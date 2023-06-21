@@ -1,2 +1,3 @@
-from . import englishtofrench
-from . import frenchtoenglish
+from . import translator
+from .translator import englishtofrench
+from .translator import frenchtoenglish
