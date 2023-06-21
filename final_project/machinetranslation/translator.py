@@ -1,8 +1,8 @@
 """
 this code translates english to french and vice versa
 The functions in this module include:
-- englishtofrench(englishtext): translates english to french.
-- frenchtoenglish(frenchtext): translates french to english.
+- englishtofrench(englishtext): translates english text to french text.
+- frenchtoenglish(frenchtext): translates french text to english text.
 """
 from deep_translator import MyMemoryTranslator
 
